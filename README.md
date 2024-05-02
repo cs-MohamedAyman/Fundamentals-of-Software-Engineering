@@ -1,8 +1,8 @@
 # Fundamentals of Software Engineering Training
 
-<a ref="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/system-analysis.png"></img></a>
-<a ref="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/software-engineering.png"></img></a>
-<a ref="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/object-oriented-design.png"></img></a>
+<a href="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/system-analysis.png"></img></a>
+<a href="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/software-engineering.png"></img></a>
+<a href="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/object-oriented-design.png"></img></a>
 <br><br><br>
 
 Fundamentals of Software Engineering Training for computer science students.
